@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ChrisNguyenx05&label=Profile%20views&color=0e75b6&style=flat" alt="giahao1411" /> </p>
 
-<!--
-**ChrisNguyenx05/ChrisNguyenx05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, glad to see you, I’m Tran Gia Hao, you can call me Hao by the way
+- 👀 I’m interested in softwares and all about coding 
+- 🌱 I’m currently learning software engineering in Ton Duc Thang University in Ho Chi Minh City  
 
-Here are some ideas to get you started:
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&hide_border=true" alt="GitHub Stats">
+  </picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&hide_border=true&theme=dark&hide_progress=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&theme=default&hide_border=true&hide_progress=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&theme=default&hide_border=true&hide_progress=true" alt="Top Languages">
+  </picture>
+</div>
