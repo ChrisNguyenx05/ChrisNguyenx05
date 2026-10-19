@@ -51,25 +51,25 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&theme=tokyonight&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&theme=default&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&hide_border=true" alt="Chris's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisNguyenx05&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Chris's GitHub Stats" />
   </picture>
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&layout=compact&theme=tokyonight&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript,jupyter%20notebook"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&layout=compact&theme=default&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&layout=compact&theme=default&hide_border=true&hide=html,css,javascript,jupyter%20notebook"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&layout=compact&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNguyenx05&layout=compact&hide_border=true&hide=html,css,javascript,jupyter%20notebook" alt="Top Languages" />
   </picture>
 </div>
