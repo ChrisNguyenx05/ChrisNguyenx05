@@ -151,7 +151,7 @@ Data Ingestion
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChrisNguyenx05&theme=tokyonight"
-  width="100%"
+  width="150%"
   alt="Chris's GitHub Contribution Activity"
 />
 
