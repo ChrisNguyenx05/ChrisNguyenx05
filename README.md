@@ -118,19 +118,30 @@ Data Ingestion
 
 <div align="center">
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChrisNguyenx05&theme=tokyonight"
-    height="200"
-    alt="GitHub Stats"
-  />
+<table>
+<tr>
+<td>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisNguyenx05&theme=tokyonight"
-    height="200"
-    alt="Repositories per Language"
-  />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChrisNguyenx05&theme=tokyonight"
+  height="200"
+  alt="GitHub Stats"
+/>
 
-</div
+</td>
+<td>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisNguyenx05&theme=tokyonight"
+  height="200"
+  alt="Top Languages"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -138,11 +149,11 @@ Data Ingestion
 
 <div align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisNguyenx05&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="Chris's GitHub Contribution Graph"
-  />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChrisNguyenx05&theme=tokyonight"
+  width="100%"
+  alt="Chris's GitHub Contribution Activity"
+/>
 
 </div>
 
